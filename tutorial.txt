@@ -1,3 +1,5 @@
+
+####### Codigos GitHub ######
 git init = inicializar repositório na pasta git
 git status  = observar untracked files
 git add . = adiciona basicamente todos os arquivos ao commit do git
@@ -8,5 +10,8 @@ git branch -M main
 git push -u origin main = envia o repositorio atual para o ambiente remoto
 
 git cheackout - b 'teste' = comando para alterar usuário e enviar uma branch
-git push --set-upstream origin teste = necessário para crição de branch tanto no respositório local, quanto servidor
-gitub
+git push --set-upstream origin teste = necessário para crição de branch tanto no respositório local, 
+quanto servidor gitub
+
+gitub branch = ver branchs existentes no projeto
+git merge teste = unindo com o branch do usuário teste 
