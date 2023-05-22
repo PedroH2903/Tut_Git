@@ -8,3 +8,5 @@ git branch -M main
 git push -u origin main = envia o repositorio atual para o ambiente remoto
 
 git cheackout - b 'teste' = comando para alterar usuário e enviar uma branch
+git push --set-upstream origin teste = necessário para crição de branch tanto no respositório local, quanto servidor
+gitub
