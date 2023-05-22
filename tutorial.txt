@@ -3,3 +3,6 @@ git status  = observar untracked files
 git add . = adiciona basicamente todos os arquivos ao commit do git
 
 git comit -a -m  = adicionando ao comit, juntamente com uma mensagem explicar as alterações feitas
+git remote add origin https://github.com/PedroH2903/Tut_Git.git
+git branch -M main 
+git push -u origin main = envia o repositorio atual para o ambiente remoto
