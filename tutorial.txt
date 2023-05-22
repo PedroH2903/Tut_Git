@@ -1,0 +1,5 @@
+git init = inicializar repositório na pasta git
+git status  = observar untracked files
+git add . = adiciona basicamente todos os arquivos ao commit do git
+
+git comit -a -m  = adicionando ao comit, juntamente com uma mensagem explicar as alterações feitas
